@@ -1,0 +1,4 @@
+line 0: offset = 364, score = 272.00, MS(1,86)
+line 1: offset = 129, score = 2383.50, MS(1,178)
+line 2: offset = 858, score = 343.30, MS(1,209)
+line 3: offset = 976, score = 750.00, MS(1,210)
